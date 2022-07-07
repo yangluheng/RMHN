@@ -1,6 +1,0 @@
-WARNING:tensorflow:From /home/y20212721/tools/miniconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow_core/python/compat/v2_compat.py:88: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
-Instructions for updating:
-non-resource variables are not supported in the long term
-WARNING:tensorflow:From /home/y20212721/Youngtop/code_ja_relation/include/Model.py:307: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
-Instructions for updating:
-Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
