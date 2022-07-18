@@ -49,7 +49,7 @@ If you use this model or code, please cite it as follows:
 ## Acknowledgement
 
 We refer to the codes of these repos: 
-ttps://github.com/1049451037/GCN-Align
+https://github.com/1049451037/GCN-Align
 https://github.com/StephanieWyt/HGCN-JE-JR
 https://github.com/Peter7Yao/RNM.
 Thanks for their great contributions!
