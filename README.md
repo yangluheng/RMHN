@@ -44,3 +44,8 @@ python main.py --dataset DBP15k --lang zh_en
 ## Citation
 
 If you use this model or code, please cite it as follows:
+
+
+## Acknowledgement
+
+We refer to the codes of these repos: GCN-Align, NMN, RNM. Thanks for their great contributions!
